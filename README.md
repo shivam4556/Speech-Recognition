@@ -1,6 +1,7 @@
 # Speech-Recognition
 
 Command Recognition App
+
 Objective : To explore TinyML using Google's Tensorflow Lite and create a model that can be used to create an android application. 
 
 Dataset used : Google's Minispeech Command Dataset 
