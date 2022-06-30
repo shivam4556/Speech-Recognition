@@ -11,3 +11,6 @@
 
 /.gradle/
 /.idea/
+
+/mlModel/data
+/tfmodel.zip
